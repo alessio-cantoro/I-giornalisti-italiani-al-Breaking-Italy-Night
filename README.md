@@ -9,7 +9,7 @@ Questo repository contiene il progetto di ricerca e analisi dati sviluppato per 
 * **Network Analysis:** Visualizzare le relazioni, le co-occorrenze e le correlazioni lineari tra le parole per mappare i macro-temi discussi dal pubblico.
 * **Keyword in Context (KWIC):** Isolare e analizzare i contesti testuali specifici in cui emergono i concetti chiave del dibattito (es. la percezione del giornalismo e del format).
 
-## 🛠️ Competenze Tecniche e Stack Tecnologico (R)
+## Competenze Tecniche e Stack Tecnologico (R)
 
 Il progetto è stato interamente sviluppato in **R**, sfruttando un approccio integrato tra Text Mining classico e NLP avanzato:
 * **`tuber`**: Interfacciamento con l'API di YouTube per il recupero di metriche del canale, statistiche dei video e download massivo dei commenti.
